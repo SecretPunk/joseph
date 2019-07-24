@@ -1,0 +1,56 @@
+body {
+  background-color: #000;
+}
+
+header, footer {
+  color: #da2546;
+  display: flex;
+  font-size: 4rem;
+}
+
+header {
+  justify-content: flex-start;
+}
+
+footer {
+  justify-content: flex-end;
+}
+
+main {
+  display: flex;
+  font-family: "Caveat Brush", cursive;
+  font-size: 18rem;
+  justify-content: center;
+}
+
+.letter {
+  margin: 1%;
+}
+
+.J {
+  color: #800080;
+}
+
+.O {
+  color: #f00;
+}
+
+.S {
+  color: #008000;
+}
+
+.E {
+  color: #ff0;
+}
+
+.P {
+  color: #00f;
+}
+
+.H {
+  color: #ffa500;
+}
+
+.pressed {
+  text-shadow: 0 0 5px #00f, 0 0 20px #fff;
+}
