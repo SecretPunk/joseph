@@ -10,6 +10,10 @@ header, footer {
   justify-content: space-between;
 }
 
+img {
+  width: 10%;
+}
+
 main {
   display: flex;
   font-family: "Caveat Brush", cursive;
