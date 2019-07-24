@@ -1,25 +1,18 @@
 body {
   background-color: #000;
+  font-size: 20vw;
 }
 
 header, footer {
   color: #da2546;
   display: flex;
   font-size: 4rem;
-}
-
-header {
-  justify-content: flex-start;
-}
-
-footer {
-  justify-content: flex-end;
+  justify-content: space-between;
 }
 
 main {
   display: flex;
   font-family: "Caveat Brush", cursive;
-  font-size: 18rem;
   justify-content: center;
 }
 

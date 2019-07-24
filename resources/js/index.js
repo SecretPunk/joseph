@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 const VALIDLETTERS = "JOSEPHjoseph";
 const SOUNDPATH = "resources/sounds/";
 
