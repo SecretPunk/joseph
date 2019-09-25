@@ -31,3 +31,4 @@ function playSound(letter) {
 
   new Audio(SOUNDPATH + letter + ".mp3").play();
 }
+
